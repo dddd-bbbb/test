@@ -2,5 +2,7 @@
 
 ## git add
 #### vscode
-sudo apt install
+sudo apt insta
 
+
+sssssssssssss
