@@ -1,0 +1,9 @@
+gogogogoggnn
+
+
+for ii iin n:
+    print("aaaaaaaaa")
+    print("aaaaaaaa")
+end
+
+go to
