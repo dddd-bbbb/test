@@ -9,3 +9,5 @@ end
 bbbbb
 
 go to
+
+add 変更をインデックスに登録する
